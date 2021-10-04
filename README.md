@@ -1,2 +1,3 @@
-# jenkins-maven-project
-# Jenkins service was active but it was not responding. Stop the jenkins service and start agaiN. Memory might be issue, log files checked.
+
+# Jenkins service was active but it was not responding. Stopped the jenkins service and started again. Then, it worked manually but not automaticly.
+# github-webhook added and committed again.
